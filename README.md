@@ -5,6 +5,7 @@
         <img src="https://img.shields.io/github/stars/Vonng">
         <img src="https://img.shields.io/github/followers/Vonng"/>
         <img src="https://badges.pufler.dev/visits/Vonng/Vonng"/>
+        <img src="https://user-badge.committers.top/china/Vonng.svg"/>
     </p>
     <p align="center">
         <a href="https://vonng.com/en/"><span>Profile</span></a> |
