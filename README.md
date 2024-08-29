@@ -24,7 +24,7 @@
     <p>🀄️ Translator of two books: <a href="https://ddia.vonng.com">《Designing Data Intensive Application]》</a> & <a href="https://pg-internal.vonng.com">《PG Internal》</a></p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=Vonng&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" height="165" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vonng&hide=javascript,html&theme=shadow_blue" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vonng&hide=css,html&theme=shadow_blue" height="165" />
     </p>
 
 <!--    <p align="center">-->
