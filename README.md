@@ -20,7 +20,7 @@
         <a href="https://pgsty.com/zh/blog/"><span>Blog</span></a>
     </p>
     <p>💻 PostgreSQL expert, Full-stack engineer, Individual open source contributor, Founder</p>
-    <p>🐘 Author of <a href="https://pgsty.com">Pigsty</a>, Open-Source RDS Alternative, Battery-Included PostgreSQL Distribution</p>
+    <p>🐘 Author of <a href="https://pigsty.io">Pigsty</a>, Open-Source RDS Alternative, Battery-Included PostgreSQL Distribution</p>
     <p>⌨️ Author of <a href="http://capslock.vonng.com">Capslock</a>, transform ⇪CapsLock into a new powerful ✱ Hyper modifier</p>
     <p>🀄️ Translator of two books: <a href="https://ddia.vonng.com">《Designing Data Intensive Application》</a> & <a href="https://pg-internal.vonng.com">《PG Internal》</a></p>
     <p>
