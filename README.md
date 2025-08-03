@@ -10,8 +10,8 @@
     <p align="center">
         <a href="https://vonng.com/en/"><span>Profile</span></a> |
         <a href="https://vonng.com/cn/"><span>Bio</span></a> |
-        <a href="https://blog.vonng.com/"><span>Blog</span></a>
-        <a href="https://vonng.com/cn/posts/"><span>Posts</span></a> |
+        <a href="https://blog.vonng.com/en/"><span>Blog</span></a> |
+        <a href="https://blog.vonng.com/"><span>CN Blog</span></a> |
         <a href="img/addvon.jpeg"><span>WeChat</span></a> |
         <a href="https://ddia.vonng.com"><span>DDIA</span></a> |
         <a href="https://pgint.vonng.com"><span>PG Internal</span></a> |
