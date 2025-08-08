@@ -4,7 +4,6 @@
     <p align="center">
         <img src="https://img.shields.io/github/stars/Vonng">
         <img src="https://img.shields.io/github/followers/Vonng"/>
-        <img src="https://badges.pufler.dev/visits/Vonng/Vonng"/>
         <a href="https://committers.top/china.html"><img src="https://user-badge.committers.top/china/Vonng.svg"/></a>
     </p>
     <p align="center">
