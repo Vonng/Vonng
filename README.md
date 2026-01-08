@@ -8,24 +8,21 @@
     </p>
     <p align="center">
         <a href="https://vonng.com/en/about"><span>Profile</span></a> |
-        <a href="https://blog.vonng.com/en/"><span>Blog</span></a> |
-        <a href="https://blog.vonng.com/"><span>CN Blog</span></a> |
+        <a href="https://vonng.com/en/"><span>Blog</span></a> |
+        <a href="https://vonng.com/"><span>博客</span></a> |
         <a href="img/addvon.jpeg"><span>WeChat</span></a> |
         <a href="https://ddia.vonng.com"><span>DDIA</span></a> |
         <a href="https://pgint.vonng.com"><span>PG Internal</span></a> |
         <a href="https://capslock.vonng.com"><span>Capslock</span></a> |
-        <a href="https://pgsty.com"><span>Pigsty</span></a> |
-        <a href="https://pig.pgsty.com"><span>PIG</span></a> |
-        <a href="https://exp.pgsty.com"><span>PG Exporter</span></a>
+        <a href="https://pigsty.io"><span>Pigsty</span></a> |
+        <a href="https://pgext.cloud/pig"><span>PIG</span></a> |
+        <a href="https://pigsty.io/docs/pg_exporter"><span>PG Exporter</span></a>
     </p>
     <p>💻 PostgreSQL expert, Full-stack engineer, Individual open source contributor, Founder</p>
-    <p>🐘 Author of <a href="https://pgsty.com">Pigsty</a>, Open-Source RDS Alternative, Battery-Included PostgreSQL Distribution</p>
+    <p>🐘 Author of <a href="https://pigsty.io">Pigsty</a>, FOSS PostgreSQL Distribution, Battery-Included PG RDS / DBaaS</p>
     <p>⌨️ Author of <a href="http://capslock.vonng.com">Capslock</a>, transform ⇪CapsLock into a new powerful ✱ Hyper modifier</p>
     <p>🀄️ Translator of two books: <a href="https://ddia.vonng.com">《Designing Data Intensive Application》</a> & <a href="https://pgint.vonng.com">《PG Internal》</a></p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=Vonng&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" height="165" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vonng&hide=css,html&theme=shadow_blue" height="165" />
-    </p>
+
 
 <!--    <p align="center">-->
 <!--        <a href="https://golang.org" target="_blank"><img src="img/go.svg" alt="go" width="40" height="40"/></a>-->
