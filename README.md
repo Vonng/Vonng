@@ -4,7 +4,7 @@
     <p align="center">
         <img src="https://img.shields.io/github/stars/Vonng">
         <img src="https://img.shields.io/github/followers/Vonng"/>
-        <a href="https://committers.top/china.html"><img src="https://user-badge.committers.top/china/Vonng.svg"/></a>
+        <a href="https://committers.top/singapore.html"><img src="https://user-badge.committers.top/singapore/Vonng.svg"/></a>
     </p>
     <p align="center">
         <a href="https://vonng.com/en/about"><span>Profile</span></a> |
@@ -15,7 +15,7 @@
         <a href="https://pgint.vonng.com"><span>PG Internal</span></a> |
         <a href="https://capslock.vonng.com"><span>Capslock</span></a> |
         <a href="https://pigsty.io"><span>Pigsty</span></a> |
-        <a href="https://pgext.cloud/pig"><span>PIG</span></a> |
+        <a href="https://pigsty.io/docs/pig"><span>PIG</span></a> |
         <a href="https://pigsty.io/docs/pg_exporter"><span>PG Exporter</span></a>
     </p>
     <p>💻 PostgreSQL expert, Full-stack engineer, Individual open source contributor, Founder</p>
