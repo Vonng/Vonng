@@ -23,21 +23,17 @@
 
 </div>
 
----
+### 👤 About
 
-### 👋 About
-
-- 🐘 &nbsp;Founder of **[Pigsty](https://pigsty.io)** — the battery-included PG Distribution, self-hostable OSS RDS
+- 🐘 &nbsp;Author of **[Pigsty](https://pigsty.io)** — the battery-included PostgreSQL Distribution, and free RDS
 - 🏢 &nbsp;Founder of **[PGSTY](https://github.com/pgsty)** — the [**organization**](https://pgsty.com) behind Pigsty, and the services around it
+- 📖 &nbsp;Wrote [**PG36G**](https://pg36g.vonng.com) and [**Cyber Dharma**](https://dharma.vonng.com), Chinese translator of **[DDIA](https://ddia.vonng.com)** & **[PG Internal](https://pgint.vonng.com)**
+- 🧩 &nbsp;Maintainer of PostgreSQL [**Extensions**](https://pgext.cloud), PG CN [**Docs**](https://pgsql.cc/docs/), [**Community**](https://pgsql.cc/) and [**NLS**](https://github.com/pgsty/pgnls)
 - ☁️ &nbsp;[**Cloud-Exit**](https://vonng.com/en/cloud/) evangelist — I think you should own your data, and your database
-- 🛠 &nbsp;[**Former**](https://www.linkedin.com/in/vonng/) Architect, DBA and full-stack engineer at **Alibaba**, **TanTan** and **Apple**
-- 🀄️ &nbsp;Wrote [**PG36G**](https://pg36g.vonng.com) and [**Cyber Dharma**](https://dharma.vonng.com), Chinese translator of **[DDIA](https://ddia.vonng.com)** & **[PG Internal](https://pgint.vonng.com)**
-- ✍️ &nbsp;Columns with hundreds essays on databases, cloud-exit and AI — in [**English**](https://vonng.com/en/) and [**中文**](https://vonng.com/)
-- 📊 &nbsp;Maintainer of PostgreSQL [**Extensions**](https://pgext.cloud), PG CN [**Docs**](https://pgsql.cc/docs/), [**Community**](https://pgsql.cc/) and [**NLS**](https://github.com/pgsty/pgnls)
+- ✍️ &nbsp;Columns with hundreds essays on databases, cloud-exit and AI — in [**EN**](https://vonng.com/en/) / [**CN**](https://vonng.com/)
+- 💼 &nbsp;[**Former**](https://www.linkedin.com/in/vonng/) Architect, DBA and full-stack engineer at **Alibaba**, **TanTan** and **Apple**
 
----
-
-### 🐘 What I Build
+### 🛠️ What I Build
 
 | Project                                  | What it is                                                             | &nbsp;                                                                                                                                                                                                               |
 |:-----------------------------------------|:-----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,8 +48,6 @@
 | **[PGEXT.CLOUD](https://pgext.cloud)**   | The PostgreSQL extension catalog — 2200+ extensions indexed            | <a href="https://pgext.cloud"><img src="https://img.shields.io/badge/catalog-2200%2B-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=24292f" alt="catalog"></a>                                  |
 | **[PG.CENTER](https://pg.center)**       | PostgreSQL docs search and knowledge graph                             | <a href="https://pg.center"><img src="https://img.shields.io/badge/docs-PG%206.3%2B-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=24292f" alt="docs"></a>                                      |
 | **[PGSQL.CC](https://pgsql.cc)**         | PostgreSQL Chinese community website                                   | <a href="https://pgsql.cc"><img src="https://img.shields.io/badge/docs-zh__CN-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=24292f" alt="docs"></a>                                            |
-
----
 
 ### 📚 What I Wrote
 
@@ -72,11 +66,6 @@
 
 <sub>Also: *[D-Bot: DB Diagnosis with LLMs](https://www.vldb.org/pvldb/vol17/p2514-li.pdf)* (VLDB '24) · *[Unified DB Access Layer](https://dl.acm.org/doi/10.1007/978-3-319-68210-5_14)* (NPC '17)</sub>
 
----
-
 <div align="center">
-<p><sub><strong>Pigsty</strong> &nbsp;·&nbsp; <a href="https://pigsty.io">Docs</a> &nbsp;·&nbsp; <a href="https://demo.pigsty.io">Live Demo</a> &nbsp;·&nbsp; <a href="https://discord.gg/wDzt5VyWEz">Discord</a> &nbsp;·&nbsp; <a href="https://t.me/joinchat/gV9zfZraNPM3YjFh">Telegram</a></sub></p>
-
-<p><sub>赞助老冯：<a href="img/wechat-pay.svg">微信支付</a> &nbsp;·&nbsp; <a href="img/alipay.svg">支付宝</a> &nbsp;·&nbsp; <a href="https://pigsty.cc/price">专业咨询</a></sub></p>
-
+<p><sub><strong>Pigsty</strong> &nbsp;·&nbsp; <a href="https://pigsty.io">Docs</a> &nbsp;·&nbsp; <a href="https://demo.pigsty.io">Demo</a> &nbsp;·&nbsp; <a href="https://discord.gg/wDzt5VyWEz">Discord</a> &nbsp;·&nbsp; <a href="https://t.me/joinchat/gV9zfZraNPM3YjFh">Telegram</a> &nbsp;|&nbsp; 赞助老冯：<a href="img/wechat-pay.svg">微信支付</a> &nbsp;·&nbsp; <a href="img/alipay.svg">支付宝</a> &nbsp;·&nbsp; <a href="https://pigsty.cc/price">专业咨询</a></sub></p>
 </div>

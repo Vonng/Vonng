@@ -1,1 +1,5 @@
 /scripts/
+.idea/
+.claude/
+.codex/
+.code/
